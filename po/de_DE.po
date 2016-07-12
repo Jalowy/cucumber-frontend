@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-07-12 11:04+0100\n"
+"PO-Revision-Date: 2016-07-12 11:17+0100\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -571,7 +571,7 @@ msgstr ""
 #: client/components/users/show/_index.html:52
 #: client/components/vouchers/_index.html:80
 msgid "Active"
-msgstr ""
+msgstr "Aktiv"
 
 #: client/components/users/invoices/_details.html:111
 msgid "Active APs"
